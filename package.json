@@ -4,7 +4,8 @@
   "description": "Jenkins demo for Node.js app deployment",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "echo 'Build script placeholder'"
   },
   "dependencies": {
     "express": "^4.17.1"
