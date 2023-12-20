@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.17.1" // of een andere gewenste versie van express
+    "express": "^4.17.1"
   },
   "author": "Jouw Naam",
   "license": "MIT"
