@@ -1,13 +1,13 @@
 {
-  "name": "jouw-projectnaam",
+  "name": "nodejs-jenkins-demo",
   "version": "1.0.0",
-  "description": "Jouw projectbeschrijving",
+  "description": "Jenkins demo for Node.js app deployment",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    // Voeg hier eventuele afhankelijkheden toe
+    "express": "^4.17.1" // of een andere gewenste versie van express
   },
   "author": "Jouw Naam",
   "license": "MIT"
