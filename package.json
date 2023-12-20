@@ -1,0 +1,15 @@
+{
+  "name": "jouw-projectnaam",
+  "version": "1.0.0",
+  "description": "Jouw projectbeschrijving",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    // Voeg hier eventuele afhankelijkheden toe
+  },
+  "author": "Ayoub Ben addou",
+  "license": "MIT"
+}
+
